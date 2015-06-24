@@ -1,0 +1,41 @@
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csprojResolveAssemblyReference.cache
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.MainMenuUI.resources
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.Cache
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.CompanyUI.resources
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.MedicinUI.resources
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.SalesUI.resources
+E:\Ashik\Exam\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.PurchaseUI.resources
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csprojResolveAssemblyReference.cache
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.CompanyUI.resources
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.MainMenuUI.resources
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.MedicinUI.resources
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.PurchaseUI.resources
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.SalesUI.resources
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.Cache
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csprojResolveAssemblyReference.cache
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.CompanyUI.resources
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.MainMenuUI.resources
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.MedicinUI.resources
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.PurchaseUI.resources
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.SalesUI.resources
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.Cache
+D:\C#\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.Login.resources
+E:\ALAmin Web.Net\TeamProject\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.UI.Login.resources
